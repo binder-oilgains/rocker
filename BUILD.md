@@ -109,3 +109,13 @@ CMD jupyter notebook --ip 0.0.0.0
 
 
 
+## R-3.5.1
+
+![image-20210129195417397](assets/BUILD/image-20210129195417397.png)
+
+
+
+![image-20210129195439691](assets/BUILD/image-20210129195439691.png)
+
+
+
