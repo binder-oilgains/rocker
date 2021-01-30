@@ -79,6 +79,10 @@ CMD jupyter notebook --ip 0.0.0.0
 
 
 
+![image-20210129194041044](assets/BUILD/image-20210129194041044.png)
+
+
+
 
 
 
@@ -86,6 +90,16 @@ CMD jupyter notebook --ip 0.0.0.0
 ## R-3.5.3
 
 ![image-20210129193732569](assets/BUILD/image-20210129193732569.png)
+
+
+
+![image-20210129194006804](assets/BUILD/image-20210129194006804.png)
+
+
+
+
+
+
 
 ![image-20210129193316914](assets/BUILD/image-20210129193316914.png)
 
