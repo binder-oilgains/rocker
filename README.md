@@ -2,7 +2,7 @@
 
 Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-oilgains/rocker/main?filepath=index.ipynb)
 
-RStudio: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-oilgains/rocker/main?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-oilgains/rocker/r-3.6.3?urlpath=rstudio)
 
 RShiny: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-oilgains/rocker/main?urlpath=shiny/bus-dashboard/)
 
