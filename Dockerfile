@@ -105,6 +105,8 @@ VOLUME /home/rstudio/kitematic
 
 CMD ["/init"]
 
+
+
 # Copy your repository contents to the image
 COPY --chown=rstudio:rstudio . ${HOME}
 
