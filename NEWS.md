@@ -2,6 +2,7 @@
 
 
 # 20210206
+* Add file `pam-helper.sh`
 * Add file `disable_auth_rserver.conf`
 * Add file `userconf.sh` because rror file not found
 * Base image used `FROM rocker/r-ver:3.6.3`
